@@ -17,7 +17,7 @@ Check out my portfolio here: (https://github.com/Ethan4422)
 
 ## 📬 Contact
 
-- Email: [e.t.goodwin4@gmail.com](mailto:your-email@example.com)
+- Email: [e.t.goodwin4@gmail.com](mailto:e.t.goodwin4@gmail.com)
 - Discord: [goodi] there are 2 underscores before and after goodi if I put normal it looks like this: __goodi__
 ---
 
