@@ -2,10 +2,6 @@
 
 Welcome to my personal portfolio website repository! This site showcases my projects, skills, and experience, with a special focus on Java development and Minecraft plugin creation.
 
-## 🌐 Live Site
-
-Check out my portfolio here: (https://github.com/Ethan4422)
-
 ## ✨ Features
 
 - Highlights my best Java and Python projects
