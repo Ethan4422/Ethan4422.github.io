@@ -4,7 +4,7 @@ Welcome to my personal portfolio website repository! This site showcases my proj
 
 ## 🌐 Live Site
 
-Check out my portfolio here: [[https://Ethan4422.github.io](https://Ethan4422.github.io)]](https://github.com/Ethan4422)
+Check out my portfolio here: (https://github.com/Ethan4422)
 
 ## ✨ Features
 
