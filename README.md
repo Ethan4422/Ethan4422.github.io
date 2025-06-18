@@ -18,7 +18,7 @@ Check out my portfolio here: [https://Ethan4422.github.io](https://Ethan4422.git
 ## 📬 Contact
 
 - Email: [e.t.goodwin4@gmail.com](mailto:your-email@example.com)
-- Discord: [__goodi__] (optional)
+- Discord: [____goodi____]
 ---
 
 > Built with ❤️ by Ethan4422
